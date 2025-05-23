@@ -1,0 +1,18 @@
+[
+  {
+    "name": "COMP9001-Homework1",
+    "tag": "Homework",
+    "due": "2025-05-23",
+    "done": true,
+    "timed": true,
+    "duration": 25
+  },
+  {
+    "name": "COMP9001-FinalProject",
+    "tag": "Homework",
+    "due": "2025-05-23",
+    "done": false,
+    "timed": true,
+    "duration": 25
+  }
+]
